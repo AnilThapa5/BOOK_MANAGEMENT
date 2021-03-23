@@ -71,6 +71,8 @@ class Book_Details:
         lbl_btn3=Button(btn_frame,bd=2,width=15,relief=RIDGE,text="RESET",font=("arial",12,"bold"),cursor="hand1")
         lbl_btn3.grid(row=1,column=1,pady=1)
 
+        ####
+
 
 
 
